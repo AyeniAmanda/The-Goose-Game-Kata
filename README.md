@@ -25,14 +25,14 @@ The game accepts two players, the first player added to game plays before the ne
 
 to add a player, you can type
 ```cucumber
-add player Bob
+add player pippo
 ```
 to move a player, with a manual rolling dice, you can type
 ```cucumber
-move alice 4,6
+move pippo 4,6
 ```
 to move a player, with automatic system rolling dice, you can type
 ```cucumber
-move alice
+move pippo
 ```
 I hope you enjoy the game.
