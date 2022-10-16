@@ -17,9 +17,10 @@ git clone https://github.com/ant-giannone/tlabs-goose-game.git
 ```
 move to the project folder
 # About
+The Goose 5,9,14,18,23,27
+The game accepts two players, the first player added to game plays before the next player this happens consequently.
 
 
-5,9,14,18,23,27
 # List of commands recognized by the system
 
 to add a player, you can type
