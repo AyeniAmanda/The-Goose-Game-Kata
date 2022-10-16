@@ -1,7 +1,7 @@
 # The-Goose-Game-Kata
  Implementation of the Goose Game kata.
 
-The project concerns a basic implementation of the goose game.There are also some unit tests
+The project concerns a basic implementation of the goose game.There are also some unit tests.
 
 If you have suggestions on how to improve or possibly rethink some parts of the code,
 I would be happy to receive them.
