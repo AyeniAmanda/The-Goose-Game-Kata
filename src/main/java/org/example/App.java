@@ -1,8 +1,6 @@
 package org.example;
 
-
 import java.util.*;
-
 
 public class App {
     private static Scanner scanner = new Scanner(System.in);
